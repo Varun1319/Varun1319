@@ -23,6 +23,7 @@ Hi, I’m Varun Kudli, an enthusiastic programmer with a love for building innov
 
 ## Get in touch:
  If you'd like to reach out, feel free to contact me via
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kudli-38477825a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kudlivaruns@gmail.com)
 
