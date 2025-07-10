@@ -8,4 +8,4 @@ Hi, I’m Varun Kudli, an enthusiastic programmer with a love for building innov
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun1319&layout=compact&theme=merko)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Varun1319&color=nerko)
+![Profile views](https://komarev.com/ghpvc/?username=Varun1319&color=merko)
