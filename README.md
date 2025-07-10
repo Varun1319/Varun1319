@@ -1,12 +1,12 @@
-## Varun Coding Portfolio
+# Varun Coding Portfolio
 
 Hi, I’m Varun Kudli, an enthusiastic programmer with a love for building innovative software solutions. This portfolio offers a glimpse into my technical skills and creative projects
 
-## Stats:
+# Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun1319&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun1319&layout=compact&theme=github_dark)
 
-## Tech:
+s# Tech:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +21,7 @@ Hi, I’m Varun Kudli, an enthusiastic programmer with a love for building innov
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 
-## Get in touch:
+# Get in touch:
  If you'd like to reach out, feel free to contact me via
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kudli-38477825a/)
