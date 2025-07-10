@@ -6,7 +6,7 @@ Hi, I’m Varun Kudli, an enthusiastic programmer with a love for building innov
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun1319&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun1319&layout=compact&theme=github_dark)
 
-s# Tech:
+# Tech:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
