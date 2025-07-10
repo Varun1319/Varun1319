@@ -3,8 +3,8 @@
 Hi, I’m Varun Kudli, an enthusiastic programmer with a love for building innovative software solutions. This portfolio offers a glimpse into my technical skills and creative projects
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun1319&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun1319&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun1319&show_icons=true&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun1319&layout=compact&theme=onedark)
 
 ## Tech
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
