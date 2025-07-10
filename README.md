@@ -28,6 +28,6 @@ Hi, I’m Varun Kudli, an enthusiastic programmer with a love for building innov
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kudlivaruns@gmail.com)
 
 
-
+---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Varun1319&color=blueviolet)
